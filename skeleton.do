@@ -11,3 +11,4 @@ log close                 //close the log when you are done
 
 translate myfile.smcl myfile.log, replace
 *add a shit to check if there is anything wrong
+test
